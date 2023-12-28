@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [exploratory analysis, clustering and linear regression](https://www.kaggle.com/code/arielsousa/clients-credit-clustering)
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning, Clustering**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/arielsousa](https://www.kaggle.com/arielsousa)
 
