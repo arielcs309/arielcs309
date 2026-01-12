@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">I'm a data science student from Rio de Janeiro</h3>
+<h3 align="center">I'm an It student from Rio de Janeiro</h3>
 
 - 🔭 I’m currently working on [exploratory analysis, clustering and linear regression](https://www.kaggle.com/code/arielsousa/clients-credit-clustering)
 
-- 🌱 I’m currently learning **Python, Machine Learning, Clustering**
+- 🌱 I’m currently learning **Python, Machine Learning, Javascript, CSS, HTML**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/arielsousa](https://www.kaggle.com/arielsousa)
 
